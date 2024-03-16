@@ -1,6 +1,12 @@
+import {Counter} from "../counter-app/counter"
+
 function App() {
 
-  return <div>Hello World</div>
+  return <div >
+    <Counter/>
+ 
+  </div>
 }
+
 
 export default App
